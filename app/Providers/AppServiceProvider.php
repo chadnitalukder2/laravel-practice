@@ -1,4 +1,4 @@
-<?php
+<?phP
 
 namespace App\Providers;
 
